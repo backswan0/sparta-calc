@@ -5,9 +5,9 @@
 - There are three calculators, each developed as a personal project.
   
 
-## 🕰️ Programming Period
+## 🕰️ Development Period
 - **Study**: 11/11/2024 – 17/11/2024
-- **Programming**: 13/11/2024 – 20/11/2024
+- **Development**: 13/11/2024 – 20/11/2024
 
 ## 🚀 Level
 
@@ -28,4 +28,8 @@
 - **Characteristics**: Created by defining five classes in Java—`Calculation`, `DataHandler`, `Ending`, `Num`, and `Op`
 - **Features**: Supports four functions—addition, subtraction, multiplication, and division
 - **Usage**: Receives one operator and two integers from a user
+
+## ➕ More Information
+- [🚗 Visit Development Journal](https://writingforever162.tistory.com)
+- 
 
