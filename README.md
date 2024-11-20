@@ -2,7 +2,7 @@
 
 ## Introduction
 - :computer: The project is an assignment to check if students have understood the online lecture.
-- :bar_chart: There are two calculators, each developed as a personal project.
+- :bar_chart: There are three calculators, each developed as a personal project.
 
 
 
