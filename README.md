@@ -30,6 +30,6 @@
 - **Usage**: Receives one operator and two integers from a user
 
 ## ➕ More Information
--  [📜 Visit Development Journal]((https://writingforever162.tistory.com))   
+-  [📜 Visit Development Journal](https://writingforever162.tistory.com)   
 - 
 
