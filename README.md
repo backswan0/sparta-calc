@@ -5,7 +5,7 @@
 - There are three calculators, each developed as a personal project.
   
 
-## 🕰️ Development Period
+## 📆 Development Period
 - **Study**: 11/11/2024 – 17/11/2024
 - **Development**: 13/11/2024 – 20/11/2024
 
@@ -30,6 +30,6 @@
 - **Usage**: Receives one operator and two integers from a user
 
 ## ➕ More Information
-- [🚗 Visit Development Journal](https://writingforever162.tistory.com)
+- [📜 Visit Development Journal] (https://writingforever162.tistory.com)
 - 
 
