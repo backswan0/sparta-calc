@@ -14,7 +14,7 @@
 ### Level 1. CalcLvOne.java
 - __Characteristics__: Created without defining any classes in Java
 - __Features__: Supports four functions—addition, subtraction, multiplication, and division
-   - 
+- [Text Style1] 
 - __Usage__: Receives one operator and two integers from a user
 
 ### Level 2. CalcLvTwo.java
