@@ -9,11 +9,12 @@
 - __Study__: 11/11/2024 – 17/11/2024
 - __Programming__: 13/11/2024 – 20/11/2024
 
-## Level
+## 🚀 Level
 
 ### Level 1. CalcLvOne.java
 - __Characteristics__: Created without defining any classes in Java
 - __Features__: Supports four functions—addition, subtraction, multiplication, and division
+   - 
 - __Usage__: Receives one operator and two integers from a user
 
 ### Level 2. CalcLvTwo.java
