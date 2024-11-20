@@ -3,10 +3,11 @@
 ## :computer: Introduction
 - The project is an assignment to check if students have understood the online lecture.
 - There are three calculators, each developed as a personal project.
+  
 
-## 🕰️ Development Period
-- 
-- 
+## 🕰️ Programming Period
+- __Study__: 11/11/2024 – 17/11/2024
+- __Programming__: 13/11/2024 – 20/11/2024
 
 ## Level
 
