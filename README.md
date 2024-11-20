@@ -29,7 +29,7 @@
 - **Features**: Supports four functions—addition, subtraction, multiplication, and division
 - **Usage**: Receives one operator and two integers from a user
 
-## ➕ More Information
-- 📜 [Visit Development Journal](https://writingforever162.tistory.com)   
-- 
+## 📜 More Information
+- [Visit Development Journal](https://writingforever162.tistory.com)
+- [Visit Troubleshooting Records](https://writingforever162.tistory.com/category/Troubleshooting%3A%20%EB%AC%B4%EC%97%87%EC%9D%B4%20%EB%AC%B8%EC%A0%9C%EC%98%80%EB%8A%94%EA%B0%80%3F)
 
