@@ -20,8 +20,11 @@
 - __Characteristics__: Created by defining a class named `Calculator` in Java
 - __Features__: Supports four functions—addition, subtraction, multiplication, and division.
       - Saves the result cumulatively after each calculation.
+  
       - Provides an inquiry function via a getter method.
+  
       - Allows deletion of the first element.
+  
 - __Usage__: Receives one operator and two integers from a user.
 
 ### Level 2.5. CalcLvTwoPointFive.java
